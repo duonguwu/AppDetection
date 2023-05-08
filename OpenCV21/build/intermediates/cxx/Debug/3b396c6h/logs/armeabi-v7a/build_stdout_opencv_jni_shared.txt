@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Android app\SuckOpenCV\OpenCV21\.cxx\Debug\3b396c6h\armeabi-v7a'
+ninja: no work to do.
